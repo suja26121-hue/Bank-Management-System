@@ -134,7 +134,8 @@ This allows records to remain saved even after closing the application.
 ## 👩‍💻 Author
 
 GITHUB: Suja J
-EMMAIL:suja26121@gmail.com
+
+EMAIL:suja26121@gmail.com
 
 ## 📅 Submission
 
